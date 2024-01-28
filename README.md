@@ -6,7 +6,7 @@
 <br />- 🤔 I’m looking for help with Placements in FAANG
 <br />- 💬 Ask me about Tech
 <br />- 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) 
+<br />  ![<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) 
 <br />- 😄 Pronouns: Techie
 
 ### I code in
